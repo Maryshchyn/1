@@ -1,4 +1,5 @@
 export const App = () => {
+  console.log('4')
   return (
     <div
       style={{
@@ -13,4 +14,5 @@ export const App = () => {
       React homework template
     </div>
   );
+  
 };
